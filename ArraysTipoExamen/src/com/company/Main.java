@@ -852,7 +852,7 @@ public class Main
         System.out.println("[16] HayRepetidos");
         System.out.println("[17] AciertosQuiniela");
         System.out.println("[18] ElementoMedia");
-        System.out.println("[19] OrdenaPorMezcla");   //**NO ESTÁ HECHO
+        System.out.println("[19] OrdenaPorMezcla");   
         System.out.println();
         System.out.print("Elige una opción: ");
         int opcion = sc.nextInt();
